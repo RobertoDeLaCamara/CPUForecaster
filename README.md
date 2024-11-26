@@ -1,2 +1,2 @@
 # CPUForecaster
-ML-powered pod load forecaster
+ML-powered kubernetes POD load forecaster
